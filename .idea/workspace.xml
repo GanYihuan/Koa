@@ -2,92 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ceba24b-5475-4f76-8cd3-23d5e25319b3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/node.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/ZenQcode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/koa2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/01-helloword.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/02-router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/03-middleware.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/04-orderexecution.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/05-koaviews.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/06-path.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/07-get.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/08-post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/09-function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/10-async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/11-listen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/helloWorld.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/email.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/email.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/send.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/sendAttachments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/sendEjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/sendHtml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/sendImg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/01-function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/02-async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/request.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/add.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/file-server/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/file-server/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/travel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/Stream.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/compress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/copy/copy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/copy/copyStream.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/copy/travel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/node命令行工具开发.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/search-cli/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/translator/bin/translator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/translator/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/chat/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/chat/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/lib/mongo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/models/books.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/routes/book.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/views/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/views/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/views/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/views/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MySQL/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MySQL/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/ejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/get.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/koarouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/middleware.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/static.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/static/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/view/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorials/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/index.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -249,12 +164,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515396952718</updated>
-      <workItem from="1515396954221" duration="278000" />
+      <workItem from="1515396954221" duration="367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="278000" />
+    <option name="totallyTimeSpent" value="367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -266,9 +181,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3109137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3109137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24892704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24892704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
