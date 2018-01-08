@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ceba24b-5475-4f76-8cd3-23d5e25319b3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/node.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/ZenQcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/koa2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/01-helloword.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/02-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/03-middleware.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/04-orderexecution.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/05-koaviews.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/06-path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/07-get.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/08-post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/09-function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/10-async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson0/11-listen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/helloWorld.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/email.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/email.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/hello.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/send.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/sendAttachments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/sendEjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/sendHtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/email/sendImg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson10/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/01-function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson11/02-async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/file-server/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/file-server/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson4/travel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/Stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/compress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/copy/copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/copy/copyStream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson5/copy/travel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/hello.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/node命令行工具开发.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/search-cli/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/translator/bin/translator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson6/translator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/chat/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/chat/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/lib/mongo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/models/books.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/routes/book.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/views/add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/views/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/views/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MongoDB/views/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MySQL/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/MySQL/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson8/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/ejs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/get.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/hello.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/koarouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/middleware.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/static/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/demos/view/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/KoaTutorial/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson9/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorials/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/index.ejs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KoaLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KoaLesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v8.5.0/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ceba24b-5475-4f76-8cd3-23d5e25319b3" name="Default" comment="" />
+      <created>1515396952718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515396952718</updated>
+      <workItem from="1515396954221" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="278000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3109137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24892704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
