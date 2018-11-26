@@ -1,3 +1,3 @@
-module.exports = function (app) {
-    app.use('/', require('./book'))
+module.exports = function(app) {
+  app.use('/', require('./book'))
 }

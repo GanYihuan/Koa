@@ -3,10 +3,11 @@ const fs = require('fs') //引入fs模块 文件 I/O
 const hostname = '127.0.0.1'
 const port = 3000
 
-const server = http.createServer((req, res) => { //创建一个http服务器
+const server = http.createServer((req, res) => {
+  //创建一个http服务器
   res.statusCode = 200
   res.setHeader('Content-Type', 'text/plain')
-  if(req.url !== '/favicon.ico'){
+  if (req.url !== '/favicon.ico') {
     let out = fs.createWriteStream('./log.txt') // 创建写入流
     out.write(`请求方法：${req.method} \n`)
     out.write(`请求url：${req.url} \n`)
